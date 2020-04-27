@@ -1,1 +1,3 @@
-# math_day_coronavirus
+# Stayin’ Alive: Predicting Shelter in Place Orders Using Twitter Sentiment Analysis
+
+With the outbreak of the coronavirus earlier this year governors were allowed to place statewide shelter in place or stay at home orders. Most governors were reluctant at first to place a statewide shelter in place or stay at home order. For example, Texas counties started placing shelter in place or stay at home orders before the entire state was placed under a stay at home order by the governor. In order for people to properly prepare for the changes that occur when these orders go into effect, people need time. The purpose of this project is to predict when a shelter in place orders or stay at home orders are implemented by counties. The purpose of the model built is to predict when these orders go into effect. This set of features includes a sentiment analysis of tweets from Texas related to the coronavirus between February and March.
